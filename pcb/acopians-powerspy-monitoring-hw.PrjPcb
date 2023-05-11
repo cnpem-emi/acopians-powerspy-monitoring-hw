@@ -269,6 +269,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YDDPUXXC
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for acopians-powerspy-monitoring-hw\Design Rule Check - pcb-acopians-powerspy-monitoring-hw.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Project Link
 Value==ProjectLink
